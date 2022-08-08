@@ -219,7 +219,7 @@ class Main:
         else:
             Main.wrong()
 
-        q = input("18.A browser feature synonymous to private browsing ")
+        q = input("18.A browser feature synonymous to private browsing")
         if q.lower() == "incognito":
             Main.correct()
             score += 1
@@ -227,56 +227,56 @@ class Main:
             Main.wrong()
 
         q = input("19.ARPA ")
-        if q.lower() == "advance research projects agency ":
+        if q.lower() == "advance research projects agency":
             Main.correct()
             score += 1
         else:
             Main.wrong()
         
         q = input("20.CERN ")
-        if q.lower() == "european center and nuclear research ":
+        if q.lower() == "european center and nuclear research":
             Main.correct()
             score += 1
         else:
             Main.wrong()
 
         q = input("21.W3C ")
-        if q.lower() == "world wide web consurtion ":
+        if q.lower() == "world wide web consurtion":
             Main.correct()
             score += 1
         else:
             Main.wrong()
 
         q = input("22.HTTP ")
-        if q.lower() == "hypertext transfer protocol ":
+        if q.lower() == "hypertext transfer protocol":
             Main.correct()
             score += 1
         else:
             Main.wrong()
 
         q = input("23.HTML ")
-        if q.lower() == "hypertext markup language ":
+        if q.lower() == "hypertext markup language":
             Main.correct()
             score += 1
         else:
             Main.wrong()
 
         q = input("24.CSS ")
-        if q.lower() == "cascading stylesheet ":
+        if q.lower() == "cascading stylesheet":
             Main.correct()
             score += 1
         else:
             Main.wrong()
 
         q = input("25.PHP ")
-        if q.lower() == "hypertext preprocessor ":
+        if q.lower() == "hypertext preprocessor":
             Main.correct()
             score += 1
         else:
             Main.wrong()
 
         q = input("26.COMPUTER ")
-        if q.lower() == " common operating machine particularly used for technical education and research.":
+        if q.lower() == "common operating machine particularly used for technical education and research":
             Main.correct()
             score += 1
         else:
