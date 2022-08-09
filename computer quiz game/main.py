@@ -219,7 +219,7 @@ class Main:
         else:
             Main.wrong()
 
-        q = input("18.A browser feature synonymous to private browsing")
+        q = input("18.A browser feature synonymous to private browsing ")
         if q.lower() == "incognito":
             Main.correct()
             score += 1
@@ -282,7 +282,7 @@ class Main:
         else:
             Main.wrong()
 
-        q = input("27.Stands for malicious software.")
+        q = input("27.Stands for malicious software. ")
         if q.lower() == "malware":
             Main.correct()
             score += 1
